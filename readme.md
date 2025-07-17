@@ -81,7 +81,7 @@ npm run dev
 
 ---
 
-## 📸 Preview (Optional)
+## 📸 Preview 
 ![Desktop View](/frontend/public/desktop.png)
 ![Mobile View](/frontend/public/mobile.png)
 ![Mark Todo Complete View](/frontend/public/complete.png)
