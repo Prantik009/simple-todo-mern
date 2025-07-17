@@ -7,7 +7,7 @@ const App = () => {
   const [text, setText] = useState("");
   const [todos, setTodos] = useState([]);
 
-  const backendAPI = "https://simple-todo-mern-backend.onrender.com";
+  const backendAPI = "https://simple-todo-mern-backend.onrender.com/api/todos";
   const fetchTodos = async () => {
     try {
       const res = await axios.get(backendAPI);
